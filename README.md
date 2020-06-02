@@ -10,7 +10,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Git`
 - `Basic Programming`
 
-2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
 - Implement the perspective open source code in prepration for data visualization 
 - `React js` 
 - `TypeScript`
