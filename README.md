@@ -3,7 +3,7 @@ This repository contains all the submitted patch files of the various tasks assi
 
 ---
 ## I have worked on the following tasks during the internship
-1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+#### 1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
 - Interface with a stock price data feed and set your system for analysis of data
 - `Finalcial Data` 
 - `Python3`
