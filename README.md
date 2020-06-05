@@ -17,5 +17,10 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Web Applications`
 
 #### 3. Display data visually for traders [Click here to see Task-3](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
-- Implement the perspective open source code in prepration for data visualization 
-#### 4. Bonus task: Open source contribution [Click here to see Task-4](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+- Use Perspective to create the chart for the trader's dashboard  
+- `Technical Communications` 
+- `Financial Analysis`
+- `Web Applications`
+#### 4. Bonus task: Open source contribution
+- Make a contribution to Perspective or other projects backlogs 
+- `Contrubuting to the Open Source Community`
