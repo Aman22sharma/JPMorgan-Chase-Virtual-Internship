@@ -24,3 +24,6 @@ This repository contains all the submitted patch files of the various tasks assi
 #### 4. Bonus task: Open source contribution
 - Make a contribution to Perspective or other projects backlogs 
 - `Contrubuting to the Open Source Community`
+---
+#### My Certificate of Completion
+![Certificatate_of_Completion](https://user-images.githubusercontent.com/40789486/83946911-6768b280-a831-11ea-9007-3fc083005965.jpg)
